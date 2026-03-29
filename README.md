@@ -1,4 +1,4 @@
-# linux-basic-assignment-dilipkumar
+# Linux Assignment
 
 ## SECTION 1 – Write the purpose and an example usage for each command.
 
