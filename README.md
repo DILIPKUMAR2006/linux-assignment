@@ -1,4 +1,4 @@
-# 🐧 Linux Learning
+# Linux Learning
 
 > I learn Linux commands, practice them hands-on, and upload everything I explore here.
 
